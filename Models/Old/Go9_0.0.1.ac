@@ -26,7 +26,7 @@ name "articule01"
 loc 0.933047 1.03987 4.21701e-005
 data 10
 articule01
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 294
 -1.80233 -0.48429 0.00997388
@@ -3064,7 +3064,7 @@ name "articule02"
 loc 0.933047 1.03987 4.21701e-005
 data 10
 articule02
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 218
 -1.79958 -0.351882 -0.00607586
@@ -5338,7 +5338,7 @@ name "axeA1"
 loc 0.933047 1.03987 4.21701e-005
 data 5
 axeA1
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 453
 -1.63996 -0.219701 2.77258e-005
@@ -8751,7 +8751,7 @@ name "axeA2"
 loc 0.933047 1.03987 4.21701e-005
 data 5
 axeA2
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 935
 -1.79363 -0.587173 -0.0444513
@@ -16166,7 +16166,7 @@ name "axeG1L"
 loc 1.39207 1.23365 3.26943e-005
 data 5
 axeG1
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 64
 -0.405671 -0.431918 1.772
@@ -16464,7 +16464,7 @@ name "axeG2L"
 loc 1.39207 1.23365 3.26943e-005
 data 5
 axeG2
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 64
 -0.404849 -0.0442213 1.77059
@@ -43587,7 +43587,7 @@ name "heliceB"
 loc 5.25379 1.32494 0.00762398
 data 7
 heliceB
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 108
 -0.00216389 0.0269029 -0.068448
@@ -44421,7 +44421,7 @@ name "axeG2R"
 loc 1.39207 1.23365 3.26943e-005
 data 5
 axeG2
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 64
 -0.402089 -0.542164 -1.76205
@@ -44719,7 +44719,7 @@ name "axeG1R"
 loc 1.39207 1.23365 3.26943e-005
 data 5
 axeG1
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 64
 -0.403134 -0.835733 -1.76327

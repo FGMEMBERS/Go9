@@ -847,7 +847,7 @@ name "heliceB"
 loc 0 0.345908 5.41558
 data 7
 heliceB
-texture "C:/Program Files/FlightGear/data/Aircraft/DO-335/Models/texture.png"
+texture "Aircraft/DO-335/Models/texture.png"
 crease 30.000000
 numvert 108
 0.108943 0.0428194 -0.00344419
